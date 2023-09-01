@@ -20,4 +20,4 @@
 `Python`, `Pandas`, `Seaborn`, `Matplotlib`, `Numpy`, `Scipy`, `datetime`, `math`, `plotly`, `json`, `squarify`, `folium`, `collection`
 предварительная обработка данных, проведение глубокого анализа данных, построение визуализации.
 
-### Статус проекта - в процессе
+### Статус проекта завершен. :heavy_check_mark:
